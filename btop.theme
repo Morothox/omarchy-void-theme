@@ -13,16 +13,16 @@ theme[title]         = "#ef4e49"
 theme[hi_fg]         = "#d47193"
 
 ## 2. Selection & Inactive Text
-theme[selected_bg]   = "#52396e"
+theme[selected_bg]   = "#4935ab"
 theme[selected_fg]   = "#fabab0"
-theme[inactive_fg]   = "#8e5282"
+theme[inactive_fg]   = "#d47193"
 
 ## 3. Box Outlines & Dividers
-theme[cpu_box]       = "#7b2328"
-theme[mem_box]       = "#7b2328"
-theme[net_box]       = "#7b2328"
-theme[proc_box]      = "#7b2328"
-theme[div_line]      = "#7b2328"
+theme[cpu_box]       = "#822226"
+theme[mem_box]       = "#822226"
+theme[net_box]       = "#822226"
+theme[proc_box]      = "#822226"
+theme[div_line]      = "#822226"
 
 ## 4. Graph Labels & Process Misc
 theme[graph_text]    = "#fabab0"
@@ -30,41 +30,41 @@ theme[proc_misc]     = "#fabab0"
 
 ## 5. Temperature
 theme[temp_start]    = "#1b0c15"
-theme[temp_mid]      = "#b9373b"
+theme[temp_mid]      = "#822226"
 theme[temp_end]      = "#ef4e49"
 
 ## 6. CPU Graph
-theme[cpu_start]     = "#7b2328"
-theme[cpu_mid]       = "#b9373b"
-theme[cpu_end]       = "#ef4e49"
+theme[cpu_start]     = "#822226"
+theme[cpu_mid]       = "#ef4e49"
+theme[cpu_end]       = "#d47193"
 
 ## 7. Memory/Disk Meters
 theme[free_start]    = "#1b0c15"
-theme[free_mid]      = "#8e5282"
-theme[free_end]      = "#d47193"
+theme[free_mid]      = "#d47193"
+theme[free_end]      = "#ef4e49"
 
-theme[cached_start]  = "#52396e"
-theme[cached_mid]    = "#8e5282"
-theme[cached_end]    = "#d47193"
+theme[cached_start]  = "#4935ab"
+theme[cached_mid]    = "#d47193"
+theme[cached_end]    = "#ef4e49"
 
 theme[available_start] = "#1b0c15"
-theme[available_mid]   = "#52396e"
-theme[available_end]   = "#8e5282"
+theme[available_mid]   = "#4935ab"
+theme[available_end]   = "#d47193"
 
-theme[used_start]    = "#7b2328"
-theme[used_mid]      = "#b9373b"
-theme[used_end]      = "#ef4e49"
+theme[used_start]    = "#822226"
+theme[used_mid]      = "#ef4e49"
+theme[used_end]      = "#d47193"
 
 ## 8. Network Graphs (Vibrant Tri-Color Gradient)
 theme[download_start] = "#1b0c15"
 theme[download_mid]   = "#d47193"
-theme[download_end]   = "#fabab0"
+theme[download_end]   = "#ef4e49"
 
 theme[upload_start]   = "#1b0c15"
-theme[upload_mid]     = "#b9373b"
+theme[upload_mid]     = "#822226"
 theme[upload_end]     = "#ef4e49"
 
 ## 9. Process Box Gradient (Threads, Mem, CPU Usage)
-theme[process_start]  = "#52396e"
-theme[process_mid]    = "#8e5282"
-theme[process_end]    = "#d47193"
+theme[process_start]  = "#4935ab"
+theme[process_mid]    = "#d47193"
+theme[process_end]    = "#ef4e49"

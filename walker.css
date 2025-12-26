@@ -1,6 +1,9 @@
 @define-color selected-text #ef4e49;
 @define-color text #fabab0;
 @define-color base #1b0c15;
-@define-color border #8e5282;
+@define-color border #d47193;
 @define-color foreground #fabab0;
 @define-color background #1b0c15;
+@define-color secondary #4935ab;
+@define-color accent #822226;
+@define-color highlight #d47193;
