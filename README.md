@@ -18,16 +18,20 @@ with deep reds, playful pinks, and dark noir backgrounds — made to capture the
 
 ## Color Palette
 
-| Color | Hex | Preview |
-|:---:|:---:|:---:|
-| Noir Fiction | #1b0c15 | ![#1b0c15](https://via.placeholder.com/15/1b0c15/1b0c15.png) |
-| Meteorite | #52396e | ![#52396e](https://via.placeholder.com/15/52396e/52396e.png) |
-| Whisky Cola | #7b2328 | ![#7b2328](https://via.placeholder.com/15/7b2328/7b2328.png) |
-| Young Salmon | #fabab0 | ![#fabab0](https://via.placeholder.com/15/fabab0/fabab0.png) |
-| Grape Candy | #8e5282 | ![#8e5282](https://via.placeholder.com/15/8e5282/8e5282.png) |
-| Pesto Rosso | #b9373b | ![#b9373b](https://via.placeholder.com/15/b9373b/b9373b.png) |
-| Muted Pink | #d47193 | ![#d47193](https://via.placeholder.com/15/d47193/d47193.png) |
-| Angry Flamingo | #ef4e49 | ![#ef4e49](https://via.placeholder.com/15/ef4e49/ef4e49.png) |
+| Color | Hex | Usage | Preview |
+|:---:|:---:|:---:|:---:|
+| Noir Fiction | #1b0c15 | Background | ![#1b0c15](https://via.placeholder.com/15/1b0c15/1b0c15.png) |
+| Angry Flamingo | #ef4e49 | Primary | ![#ef4e49](https://via.placeholder.com/15/ef4e49/ef4e49.png) |
+| Muted Pink | #d47193 | Primary | ![#d47193](https://via.placeholder.com/15/d47193/d47193.png) |
+| Purple Chaos | #4935ab | Secondary | ![#4935ab](https://via.placeholder.com/15/4935ab/4935ab.png) |
+| Deep Red | #822226 | Secondary | ![#822226](https://via.placeholder.com/15/822226/822226.png) |
+| Young Salmon | #fabab0 | Text/Foreground | ![#fabab0](https://via.placeholder.com/15/fabab0/fabab0.png) |
+
+---
+
+## HarleyVim
+
+This theme includes a custom Neovim configuration called **HarleyVim** - a Harley Quinn themed Neovim setup with catppuccin color overrides matching the theme palette.
 
 ---
 

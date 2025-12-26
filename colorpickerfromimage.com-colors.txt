@@ -1,8 +1,6 @@
 Noir Fiction: #1b0c15
-Meteorite: #52396e
-Whisky Cola: #7b2328
+Angry Flamingo (Primary): #ef4e49
+Muted Pink (Primary): #d47193
+Purple Chaos (Secondary): #4935ab
+Deep Red (Secondary): #822226
 Young Salmon: #fabab0
-Grape Candy: #8e5282
-Pesto Rosso: #b9373b
-Muted Pink: #d47193
-Angry Flamingo: #ef4e49

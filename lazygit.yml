@@ -1,0 +1,34 @@
+# HarleyVim - Harley Quinn Lazygit Theme
+# Primary colors: #ef4e49, #d47193
+# Secondary colors: #4935ab, #822226
+
+gui:
+  theme:
+    # Active pane border color (Primary - Angry Flamingo)
+    activeBorderColor:
+      - "#ef4e49"
+      - bold
+    # Inactive pane border color (Secondary - Purple)
+    inactiveBorderColor:
+      - "#4935ab"
+    # Options text color (Primary - Muted Pink)
+    optionsTextColor:
+      - "#d47193"
+    # Selected line background (Secondary - Purple)
+    selectedLineBgColor:
+      - "#4935ab"
+    # Cherrypicked commit color (Primary - Angry Flamingo)
+    cherryPickedCommitBgColor:
+      - "#822226"
+    cherryPickedCommitFgColor:
+      - "#fabab0"
+    # Untracked files color (Primary - Muted Pink)
+    unstagedChangesColor:
+      - "#d47193"
+    # Default foreground color
+    defaultFgColor:
+      - "#fabab0"
+    # Search match color
+    searchingActiveBorderColor:
+      - "#ef4e49"
+      - bold
