@@ -8,63 +8,63 @@
 # Use "start", "mid" and "end" for three color gradient
 
 ## 1. Main UI Colors
-theme[main_bg]       = "#080611"  # main bg need to be empty if you want transparent background
-theme[title]         = "#9266C4"
-theme[hi_fg]         = "#8047B9"
+theme[main_bg]       = "#1b0c15"  # main bg need to be empty if you want transparent background
+theme[title]         = "#ef4e49"
+theme[hi_fg]         = "#d47193"
 
 ## 2. Selection & Inactive Text
-theme[selected_bg]   = "#1F1635"
-theme[selected_fg]   = "#FFFFFF"
-theme[inactive_fg]   = "#4A3D5C"
+theme[selected_bg]   = "#52396e"
+theme[selected_fg]   = "#fabab0"
+theme[inactive_fg]   = "#8e5282"
 
 ## 3. Box Outlines & Dividers
-theme[cpu_box]       = "#311F4F"
-theme[mem_box]       = "#311F4F"
-theme[net_box]       = "#311F4F"
-theme[proc_box]      = "#311F4F"
-theme[div_line]      = "#311F4F"
+theme[cpu_box]       = "#7b2328"
+theme[mem_box]       = "#7b2328"
+theme[net_box]       = "#7b2328"
+theme[proc_box]      = "#7b2328"
+theme[div_line]      = "#7b2328"
 
 ## 4. Graph Labels & Process Misc
-theme[graph_text]    = "#D1C3EB"
-theme[proc_misc]     = "#D1C3EB"
+theme[graph_text]    = "#fabab0"
+theme[proc_misc]     = "#fabab0"
 
 ## 5. Temperature
-theme[temp_start]    = "#080611"
-theme[temp_mid]      = "#8047B9"
-theme[temp_end]      = "#B497CE"
+theme[temp_start]    = "#1b0c15"
+theme[temp_mid]      = "#b9373b"
+theme[temp_end]      = "#ef4e49"
 
 ## 6. CPU Graph
-theme[cpu_start]     = "#E06a7A"
-theme[cpu_mid]       = "#A23648"
-theme[cpu_end]       = "#E06a7A"
+theme[cpu_start]     = "#7b2328"
+theme[cpu_mid]       = "#b9373b"
+theme[cpu_end]       = "#ef4e49"
 
 ## 7. Memory/Disk Meters
-theme[free_start]    = "#3A1017"
-theme[free_mid]      = "#A23648"
-theme[free_end]      = "#E06A7A"
+theme[free_start]    = "#1b0c15"
+theme[free_mid]      = "#8e5282"
+theme[free_end]      = "#d47193"
 
-theme[cached_start]  = "#3A1017"
-theme[cached_mid]    = "#A23648"
-theme[cached_end]    = "#E06A7A"
+theme[cached_start]  = "#52396e"
+theme[cached_mid]    = "#8e5282"
+theme[cached_end]    = "#d47193"
 
-theme[available_start] = "#3A1017"
-theme[available_mid]   = "#A23648"
-theme[available_end]   = "#E06A7A"
+theme[available_start] = "#1b0c15"
+theme[available_mid]   = "#52396e"
+theme[available_end]   = "#8e5282"
 
-theme[used_start]    = "#3A1017"
-theme[used_mid]      = "#A23648"
-theme[used_end]      = "#E06A7A"
+theme[used_start]    = "#7b2328"
+theme[used_mid]      = "#b9373b"
+theme[used_end]      = "#ef4e49"
 
 ## 8. Network Graphs (Vibrant Tri-Color Gradient)
-theme[download_start] = "#311F4F"
-theme[download_mid]   = "#B3525A"
-theme[download_end]   = "#A9B06F"
+theme[download_start] = "#1b0c15"
+theme[download_mid]   = "#d47193"
+theme[download_end]   = "#fabab0"
 
-theme[upload_start]   = "#311F4F"
-theme[upload_mid]     = "#B35C3A"
-theme[upload_end]     = "#87A45F"
+theme[upload_start]   = "#1b0c15"
+theme[upload_mid]     = "#b9373b"
+theme[upload_end]     = "#ef4e49"
 
 ## 9. Process Box Gradient (Threads, Mem, CPU Usage)
-theme[process_start]  = "#4B3B75"
-theme[process_mid]    = "#7E5FA3"
-theme[process_end]    = "#C1A3E0"
+theme[process_start]  = "#52396e"
+theme[process_mid]    = "#8e5282"
+theme[process_end]    = "#d47193"
